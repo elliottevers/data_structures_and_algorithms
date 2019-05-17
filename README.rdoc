@@ -1,1 +1,1 @@
-Solutions, in Ruby, to some common problems seen in interviews
+Implementations, in Ruby, of some common concepts seen in interviews
